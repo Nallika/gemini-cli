@@ -1,0 +1,8 @@
+{
+  "defaultModel": "flash",
+  "models": {
+    "flash": "gemini-3-flash-preview",
+    "pro": "gemini-3-pro-preview",
+    "old": "gemini-2.5-flash"
+  }
+}
